@@ -39,6 +39,7 @@ replication_scripts/      # Scripts used in your replication:
                           #   - If you created new scripts: include all new scripts
 outputs/                  # Your generated results only
 logs/                     # Console output, errors, screenshots
+notes/                    # Optional if you have any notes you took during reproduction (E.g., where you noted discrepencies etc)
 ```
 
 **For each folder and file, provide a brief description of what it contains.**
