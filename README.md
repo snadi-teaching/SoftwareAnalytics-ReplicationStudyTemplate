@@ -46,7 +46,7 @@ notes/                    # Optional if you have any notes you took during repro
 
 ### 3. Setup Instructions
 
-- **Prerequisites**: Required software, tools, and versions
+- **Prerequisites**: Required software, tools, and **their versions**
   - OS requirements
   - Programming language versions (Python, R, etc.)
   - Required packages/libraries and versions
@@ -55,8 +55,12 @@ notes/                    # Optional if you have any notes you took during repro
   - How to install dependencies
   - How to configure paths or settings
   - Any environment variables needed
+ 
+### 5. Running Instructions
 
-### 4. GenAI Usage
+Document every step needed to reproduce your results, clearly indicating which part of the replication is it related to. Where a step matches the original artifact, say so and link to it (e.g., "Step 1: Run steps 4–5 in the [original artifact README](link to/path of that file)").
+
+### 5. GenAI Usage
 
 **GenAI Usage**: Briefly document any use of generative AI tools (e.g., ChatGPT, GitHub Copilot, Cursor) during the replication process. Include:
 
