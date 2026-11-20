@@ -62,16 +62,16 @@ Document every step needed to reproduce your results, clearly indicating which p
 
 ### 5. GenAI Usage
 
-**GenAI Usage**: Briefly document any use of generative AI tools (e.g., ChatGPT, GitHub Copilot, Cursor) during the replication process. Include:
+**GenAI Usage**: Please check the GenAI usage policy in the replication study guidelines. Briefly document any use of generative AI tools (e.g., ChatGPT, GitHub Copilot, Cursor) during the replication process. Include:
 
   - Which tools were used
   - How they were used (e.g., understanding scripts, exploring datasets, understanding data fields, debugging)
   - Brief description of the assistance provided
 
 
-## Grading Criteria for README
+## Grading Criteria for Replication Repo
 
-Your replication repo will be evaluated based on the following aspects (Total: 40 points):
+Your replication repo will be evaluated based on the following aspects (Total: 25 points):
 
 ### 1. README Completeness (10 points)
 - [ ] All required sections are present
