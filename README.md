@@ -71,23 +71,23 @@ Document every step needed to reproduce your results, clearly indicating which p
 
 ## Grading Criteria for README
 
-Your README will be evaluated based on the following aspects (Total: 40 points):
+Your replication repo will be evaluated based on the following aspects (Total: 40 points):
 
-### 1. Completeness (10 points)
+### 1. README Completeness (10 points)
 - [ ] All required sections are present
 - [ ] Each section contains sufficient detail
 - [ ] Repository structure is fully documented
 - [ ] All files and folders are explained
 - [ ] GenAI usage is documented (if any AI tools were used)
 
-### 2. Clarity and Organization (5 points)
+### 2. README Clarity and Organization (5 points)
 - [ ] Information is well-organized and easy to follow
 - [ ] Instructions are clear and unambiguous
 - [ ] Professional writing and formatting
 - [ ] Proper use of markdown formatting (headers, code blocks, lists)
 
 ### 3. Setup and Reproducibility (10 points)
-- [ ] Setup instructions are complete and accurate, i.e., we were able to rerun the scripts following your instructions and obtain the results you reported
+- [ ] Setup instructions are complete and accurate, i.e., we were able to rerun the scripts following your instructions and obtain the results you reported. All required scripts and data are present in the repo.
 
 
 ## Best Practices
