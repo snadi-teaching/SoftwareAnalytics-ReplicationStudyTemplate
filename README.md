@@ -21,7 +21,7 @@ Your repository README should include the following sections:
 - **Paper Title**: [Full title of the replicated paper]
 - **Authors**: [Original paper authors]
 - **Replication Team**: [Your team members' names]
-- **Course**: CS-UH 3260 Software Analytics, NYUAD
+- **Course**: CS-UH 3260 Software Analytics <Add Term>, NYUAD
 - **Brief Description**: 
   - 2-3 sentences summarizing what the original paper is about
   - 2-3 sentences summarizing what this replication study does
